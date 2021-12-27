@@ -18,7 +18,7 @@
 * Google Cloud Speech API
 * pyttsx3
 ---
-* **CODE:** [F.D.P-Code]() 
+* **CODE:** [F.D.P-Code](https://github.com/woo525/Sejong-AI-Hackathon/tree/main/F.D.P-Code/F.D.P) 
 * **발표 자료:** [최종](https://github.com/woo525/Sejong-AI-Hackathon/blob/main/%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%B0%9C%ED%91%9C-2%EC%B0%A8(%EC%B5%9C%EC%A2%85).pdf)(동영상 재생 X)
 * **결과:** 🏆 [금상](https://github.com/woo525/Sejong-AI-Hackathon/blob/main/AI-%ED%95%B4%EC%BB%A4%ED%86%A4_%EA%B8%88%EC%83%81.jpg)
 
